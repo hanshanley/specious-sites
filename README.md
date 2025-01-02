@@ -6,10 +6,11 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 
-    @article{hanley2023specious,
-      title={Specious Sites: Tracking the Spread and Sway of Spurious News Stories at Scale},
+   @inproceedings{hanley2024specious,
+      title={Specious sites: Tracking the spread and sway of spurious news stories at scale},
       author={Hanley, Hans WA and Kumar, Deepak and Durumeric, Zakir},
-      journal={2024 IEEE Symposium on Security and Privacy (SP)},
+      booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
+      pages={1609--1627},
       year={2024},
       organization={IEEE}
     }
