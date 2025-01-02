@@ -2,6 +2,9 @@
 
 
 
+## Dp-Means Clustering 
+The folder `dpmeans_clustering` contains code that performs an optimized version of DP-Means Clustering using cosine similarity rather than Euclidean distance. 
+
 ## Website List
 This GitHub repository contains the websites utilized to document the popularity and influence of different unreliable and biased websites. This dataset consists of 1,334 unreliable and biased websites. 
 
