@@ -5,7 +5,7 @@ For additional details about the collection method and analysis of these website
 
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
-
+```
    @inproceedings{hanley2024specious,
       title={Specious sites: Tracking the spread and sway of spurious news stories at scale},
       author={Hanley, Hans WA and Kumar, Deepak and Durumeric, Zakir},
@@ -14,4 +14,5 @@ If our lists of sites are useful for your own research, you can cite us with the
       year={2024},
       organization={IEEE}
     }
+```
     
