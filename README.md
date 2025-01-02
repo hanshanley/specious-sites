@@ -1,5 +1,5 @@
 ##  Specious Sites
-GitHub repository for websites utilized to document the popularity and influence of different unreliable and biased websites. This dataset consists of 1,334 unreliable and biased websites. This GitHub repository will be updated with the code and weights of the model utilized in our paper.
+GitHub repository for websites utilized to document the popularity and influence of different unreliable and biased websites. This dataset consists of 1,334 unreliable and biased websites. 
 
 For additional details about the collection method and analysis of these websites, see our paper/analysis here: https://www.hanshanley.com/files/Specious_Sites.pdf
 
