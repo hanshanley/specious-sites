@@ -13,14 +13,20 @@ For additional details about the collection method and analysis of these website
 ## Citing the paper
 If our lists of sites are useful for your own research, you can cite us with the following BibTex entry:
 ```
-   @inproceedings{hanley2024specious,
-      title={Specious sites: Tracking the spread and sway of spurious news stories at scale},
-      author={Hanley, Hans WA and Kumar, Deepak and Durumeric, Zakir},
-      booktitle={2024 IEEE Symposium on Security and Privacy (SP)},
-      pages={1609--1627},
-      year={2024},
-      organization={IEEE}
-    }
+@INPROCEEDINGS {10646651,
+author = { Hanley, Hans W. A. and Kumar, Deepak and Durumeric, Zakir },
+booktitle = { 2024 IEEE Symposium on Security and Privacy (SP) },
+title = {{ Specious Sites: Tracking the Spread and Sway of Spurious News Stories at Scale }},
+year = {2024},
+volume = {},
+ISSN = {},
+pages = {1609-1627},
+keywords = {Privacy;Codes;Voting;Ecosystems;Safety;Security;Fake news},
+doi = {10.1109/SP54263.2024.00171},
+url = {https://doi.ieeecomputersociety.org/10.1109/SP54263.2024.00171},
+publisher = {IEEE Computer Society},
+address = {Los Alamitos, CA, USA},
+month =May}
 ```
 ## License and Copyright
 
