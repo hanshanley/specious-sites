@@ -11,7 +11,7 @@ The folder `dpmeans_clustering` contains code that performs an optimized version
 
 
 ## Website and URL Information
-This GitHub repository contains the websites utilized to document the popularity and influence of different unreliable and biased websites. This dataset consists of 1,334 unreliable and biased websites. The URLS can be downloaded [here](https://drive.google.com/file/d/1sil_lZXrMh4SQO0LhhYuUMz62GLEk2v1/view?usp=sharing)
+This GitHub repository contains the websites utilized to document the popularity and influence of different unreliable and biased websites. This dataset consists of 1,334 unreliable and biased websites. The URLS can be downloaded [here](https://drive.google.com/file/d/1sil_lZXrMh4SQO0LhhYuUMz62GLEk2v1/view?usp=sharing).
 
 For additional details about the collection method and analysis of these websites, see our paper/analysis here: https://www.hanshanley.com/files/Specious_Sites.pdf
 
